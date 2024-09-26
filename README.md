@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 =======
 # Currency-Converter-Web-App
 A react project using custom hook, which can help to convert the currency from any currency to another.
->>>>>>> 5749ec43082a18d9bede0b29b7ec6c6ebd9bd08f
+
